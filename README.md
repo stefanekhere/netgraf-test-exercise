@@ -1,2 +1,2 @@
-# netgraf text exercise
+# Netgraf - Test Exercise
  Test Exercise
